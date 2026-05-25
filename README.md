@@ -25,6 +25,6 @@ A futuristic and secure authentication system built using **HTML, CSS, and JavaS
 ## 🔒 Security Features
 
 ### bcrypt Password Hashing
-Passwords are hashed using:
+Passwords are hashed using:   bcrypt.hash(password, 10)
 
 The Website : http://127.0.0.1:5500/login.html
