@@ -10,8 +10,6 @@ A futuristic and secure authentication system built using **HTML, CSS, and JavaS
 - Password strength checking
 - Audit logging
 
-Because apparently humans still insist on using `password123`, this project exists to restore some dignity to authentication systems.
-
 ---
 
 # 🚀 Features
